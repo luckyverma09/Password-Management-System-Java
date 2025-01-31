@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PasswordManager",
+      "request": "launch",
+      "mainClass": "PasswordManager",
+      "projectName": "Password Management System_b0692108"
+    },
+    {
+      "command": "npm start",
+      "name": "Run npm start",
+      "request": "launch",
+      "type": "node-terminal"
+    }
+  ]
+}
